@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizamin-orucov&label=Profile%20views&color=0e75b6&style=flat" alt="elizamin-orucov" /> </p>
 
-- 🌱 I’m currently learning **Oracle Database, PL/SQL**
+- 🌱 I’m currently learning **CI/CD**
 
 - 💬 Ask me about **Python, Django, Django Rest Framework (DRF), Java, Spring, Spring-Boot**
 
